@@ -2,6 +2,7 @@
 <Response>
   <Pause length="6"/>
   <Play digits="1"/>
+  <Pause length="6"/>
   <Redirect method="POST">https://api.us.elevenlabs.io/twilio/inbound_call</Redirect>
 </Response>
 
