@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+  <Dial callerId="+17276148846">
+    sip:https://api.us.elevenlabs.io/twilio/inbound_call
+  </Dial>
+</Response>
