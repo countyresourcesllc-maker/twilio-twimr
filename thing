@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
+  <Play digits="1"/>
   <Redirect method="POST">https://api.us.elevenlabs.io/twilio/inbound_call</Redirect>
 </Response>
+
